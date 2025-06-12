@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                               STS QUANTUM                        |
 //|               Strategia Completa Multi-Strategia e Analisi Tecnica|
-//|                                           Creato da OpenAI GPT-4   |
+//|                                           Creato da  |
 //+------------------------------------------------------------------+
-#property copyright "OpenAI GPT-4 - Custom Ultimate Final Release"
-#property link      "https://openai.com"
+#property copyright " - Custom Ultimate Final Release"
+#property link    
 #property version   "4.00" // VERSIONE QUANTUM FINALE ESTESA - GOLD EDITION
 #property strict
 
